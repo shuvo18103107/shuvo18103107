@@ -2,6 +2,33 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
+<a href="https://twitter.com/MohammadAliShu4">
+  <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mohammad-ali-shuvo-b53953195/">
+  <img align="left" alt="shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/shuvo18103107">
+  <img align="left" alt="shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/shuvo193494/">
+  <img align="left" alt="Shuvo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100010342747956">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/MohammadAliShuvo/">
+  <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+
+
+
+
 - 🔭 I’m currently Looking for an Internship and also a full time job
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -30,5 +57,5 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡️ Fun fact: I Love drawing,travelling and most importently meet with new people. 
 
 [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)](https://github.com/shuvo18103107)
-[![shuvo's github stats](https://github-readme-stats.vercel.app/api/pin/?&theme=dark&show_icons=trueusername=shuvo105746&repo=Flutter-animated-Login-Ui&theme=dark)](https://github.com/shuvo18103107/Flutter-animated-Login-Ui)
+
 
