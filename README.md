@@ -1,6 +1,6 @@
-# Hi there [Mohammad Ali Shuvo!] 👋
+# Hola, I'm Mohammad Ali Shuvo!👋
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, Coding is my passion and it's also become my profession.
 
 <a href="https://twitter.com/MohammadAliShu4">
   <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
