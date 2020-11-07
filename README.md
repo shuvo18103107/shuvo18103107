@@ -99,22 +99,12 @@ ____
 <a href="#"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h6 align="center"> Total Solved: 200 | Total Tried: 30 | Total Attempted: 100</h6>
 
 
-
+<h3 align="center">📊 Statistics 📊</h3>
 
 [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)](https://github.com/shuvo18103107)
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
 </a>
-<h3 align="center">📊 Statistics 📊</h3>
-
-
-
-| | | 
-| :--: | :--: |
-| [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact" alt="Mohammad Ali Shuvo"/></a>
-| | | 
-| <img height="200px" src="https://wakatime.com/share/@shuvo18103107/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shuvo18103107/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
-| | |
 
 <!--START_SECTION:waka-->
 ```text
@@ -128,7 +118,7 @@ JavaScript   11 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
+
 
 <div align="center">
 
