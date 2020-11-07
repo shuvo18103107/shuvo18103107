@@ -106,7 +106,7 @@ ____
 
 
 ![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)
-(https://github.com/shuvo18103107) 
+
  <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/></a>
 
 <div align="center">
