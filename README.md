@@ -103,7 +103,9 @@ ____
 
 <h3 align="center">📊 Statistics 📊</h3>
 [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)](https://github.com/shuvo18103107)
-[![shuvo's github stats](https://github-readme-stats.vercel.app/api/pin/?&theme=dark&show_icons=trueusername=shuvo105746&repo=Flutter-animated-Login-Ui&theme=dark)](https://github.com/shuvo18103107/Flutter-animated-Login-Ui)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
+</a>
 
 <div align="center">
 
