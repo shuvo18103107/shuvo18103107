@@ -105,6 +105,30 @@ ____
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
 </a>
+<h3 align="center">📊 Statistics 📊</h3>
+
+
+
+| | | 
+| :--: | :--: |
+| [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact" alt="Mohammad Ali Shuvo"/></a>
+| | | 
+| <img height="200px" src="https://wakatime.com/share/@shuvo18103107/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shuvo18103107/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a> |
+| | |
+
+<!--START_SECTION:waka-->
+```text
+Week: 30 October, 2020 - 06 November, 2020
+
+Other        25 hrs 10 mins  █████████████████▓░░░░░░░   70.01 % 
+HTML         7 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
+PHP          2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Dart         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+```
+<!--END_SECTION:waka-->
+
+---
 
 <div align="center">
 
