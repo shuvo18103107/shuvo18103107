@@ -102,11 +102,7 @@ ____
 
 
 <h3 align="center">📊 Statistics 📊</h3>
-[![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)](https://github.com/shuvo18103107)
-<a href="">	<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
-
-
+| [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact" alt="Mohammad Ali Shuvo"/></a>
 
 
 <div align="center">
