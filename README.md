@@ -46,7 +46,7 @@ I love to talk on trending ⚡ technology ⚡, Coding is my passion and it's als
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=Firebase)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
@@ -104,20 +104,10 @@ ____
 <h3 align="center">📊 Statistics 📊</h3>
 [![Shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)](https://github.com/shuvo18103107)
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
+  <img align="center-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/>
 </a>
 
-<!--START_SECTION:waka-->
-```text
-Week: 30 October, 2020 - 06 November, 2020
 
-Other        25 hrs 10 mins  █████████████████▓░░░░░░░   70.01 % 
-HTML         7 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
-PHP          2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Dart         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-```
-<!--END_SECTION:waka-->
 
 
 
