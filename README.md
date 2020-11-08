@@ -9,7 +9,8 @@
 <br>
 <h3 align="center">📫 Reach me 📫</h3>
 
-<div align = center>
+<br>
+<br>
 <a href="https://twitter.com/MohammadAliShu4" >
   <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,7 +30,7 @@
 <a href="https://www.youtube.com/MohammadAliShuvo/">
   <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-</div>
+
 
 <br/>
 <br/>
@@ -47,7 +48,7 @@ const Shuvo = {
   tools: [Flutter, Redux, Node, Firebase, Styled-Components, , Docker],
   daily use: ["Fltter", "Dart", "Material Ui","Github","firebase"],
   I also use and work: [PHP,laravel,Asp.net,Javascript, HTML, CSS, Bootstrap, Python,C#, Java, C, C++]
- challenge: "Learn more technologies and want to be a Pro level Flutter Developer"
+ challenge: ["Learn more technologies and want to be a Pro level Flutter Developer"]
 }
 ```
 ____
