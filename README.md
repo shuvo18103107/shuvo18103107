@@ -9,23 +9,24 @@
 <br>
 <h3 align="center">📫 Reach me 📫</h3>
 
-<a href="https://twitter.com/MohammadAliShu4">
+<div 
+<a href="https://twitter.com/MohammadAliShu4" align ="center">
   <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohammad-ali-shuvo-b53953195/">
+<a href="https://www.linkedin.com/in/mohammad-ali-shuvo-b53953195/" align ="center">
   <img align="left" alt="shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/shuvo18103107">
+<a href="https://github.com/shuvo18103107" align ="center">
   <img align="left" alt="shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.instagram.com/shuvo193494/">
+<a href="https://www.instagram.com/shuvo193494/" align ="center">
   <img align="left" alt="Shuvo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100010342747956">
+<a href="https://www.facebook.com/profile.php?id=100010342747956" align ="center">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/MohammadAliShuvo/">
+<a href="https://www.youtube.com/MohammadAliShuvo/" align ="center">
   <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
