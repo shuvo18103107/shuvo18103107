@@ -41,15 +41,11 @@
 ```javascript
 const Shuvo = {
   pronouns: "He" | "him",
-  code: [Javascript, Dart, HTML, CSS, Bootstrap, Python,C#, Java, C, C++],
+  Status: ["I’m currently learning about flutter and other android tech"],
   tools: [Flutter, Redux, Node, Firebase, Styled-Components, , Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I’m currently learning about flutter and other android tech and want to be a Pro level Flutter Developer"
+  I use daily: ["Fltter", "Dart", "Material Ui","Github","firebase"],
+  I also use and work: [PHP,laravel,Asp.net,Javascript, HTML, CSS, Bootstrap, Python,C#, Java, C, C++]
+ challenge: "Learn more technologies and want to be a Pro level Flutter Developer"
 }
 ```
  <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
