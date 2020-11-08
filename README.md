@@ -7,7 +7,7 @@
 <h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a></h3>
 
 <br>
-
+<h3 align="center">📫 Reach me 📫</h3>
 
 <a href="https://twitter.com/MohammadAliShu4">
   <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -48,6 +48,7 @@ const Shuvo = {
  challenge: "Learn more technologies and want to be a Pro level Flutter Developer"
 }
 ```
+____
  <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
 <p align="center">
 Studying in bachelor degree, in IUBAT (International University of Business Agriculture and Technology) with the intend to pursue a Computer Science degree after!</p>
@@ -84,7 +85,7 @@ ____
 <a href="#"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h6 align="center"> Total Solved: 200 | Total Tried: 30 | Total Attempted: 100</h6>
 
 
-
+---
 
 <h3 align="center">📊 Statistics 📊</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
