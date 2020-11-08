@@ -43,7 +43,7 @@ const Shuvo = {
   pronouns: "He" | "him",
   Status: ["I’m currently learning about flutter and other android tech"],
   tools: [Flutter, Redux, Node, Firebase, Styled-Components, , Docker],
-  I use daily: ["Fltter", "Dart", "Material Ui","Github","firebase"],
+  daily use: ["Fltter", "Dart", "Material Ui","Github","firebase"],
   I also use and work: [PHP,laravel,Asp.net,Javascript, HTML, CSS, Bootstrap, Python,C#, Java, C, C++]
  challenge: "Learn more technologies and want to be a Pro level Flutter Developer"
 }
