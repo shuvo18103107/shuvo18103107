@@ -99,6 +99,13 @@ ____
 ![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)
 
  <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/></a>
+ 
+ <br>
+ # 📝 Read my recent blog's
+All these are friend link you can access for free
+
+- [Complete Flutter and Dart Roadmap 2020](https://18103107.medium.com/complete-flutter-and-dart-roadmap-2020-a4a6ee37d486)
+- [Some ways to thank your favorite open source projects and Hacktoberfest 2020](https://18103107.medium.com/some-ways-to-thank-your-favorite-open-source-projects-and-hacktoberfest-2020-20dde056d805)
 
 <div align="center">
 
