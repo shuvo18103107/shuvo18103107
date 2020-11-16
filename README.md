@@ -4,7 +4,7 @@
 
 <h3 align="center">📝 Who am I? 📝</h3>
 
-<h3 align="center"><a href="https://github.com/NoushadBug/NoushadBug/raw/master/Noushad%20Bhuiyan_Resume.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="NoushadBug"/></a></h3>
+<h3 align="center"><a href="https://shuvo18103107.github.io/"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="Shuvo"/></a></h3>
 
 <br>
 <h3 align="center">📫 Reach me 📫</h3>
