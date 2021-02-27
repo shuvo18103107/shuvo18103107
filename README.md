@@ -97,15 +97,18 @@ ____
 
 <h3 align="center">📊 Statistics 📊</h3>
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- <br>
 
 
 
-![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&show_icons=true&theme=radical)
-
- <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/></a>
+| | | 
+| :--: | :--: |
+|[![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107" alt="shuvo/></a>
+| | | 
  
- <br>
+ <!--START_SECTION:waka-->
+ <img src = "https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" height = 400px/>
+
+
 
 <h3 align="center">📝 Read my recent blog's 📝</h3>
 
