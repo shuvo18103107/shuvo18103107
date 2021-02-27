@@ -15,22 +15,22 @@
   <img align="left" alt="shuvo's twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohammad-ali-shuvo-b53953195/" >
-  <img align="left" alt="shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="shuvo's Linkdein" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a href="https://github.com/shuvo18103107" >
-  <img align="left" alt="shuvo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="shuvo's Github" width="22px" src="https://www.vhv.rs/dpng/d/420-4200342_github-icon-download-at-icons8-icon-github-hd.png" />
 </a>
 <a href="https://stackoverflow.com/users/14565857/mohammad-ali-shuvo" >
   <img align="left" alt="shuvo's stackoverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
-<a href="https://www.instagram.com/shuvo193494/" >
-  <img align="left" alt="Shuvo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/mohammad_ali_shuvo_18/" >
+  <img align="left" alt="Shuvo's Instagram" width="22px" src="https://i.pinimg.com/originals/31/39/56/313956a2935fa95c41702388e3e7239b.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100010342747956">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" />
 </a>
-<a href="https://www.youtube.com/MohammadAliShuvo/">
-  <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCRMzuwieBObcTrlPTWTLsNg/">
+  <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
 </a>
 
 
