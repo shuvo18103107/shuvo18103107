@@ -109,6 +109,8 @@ ____
 - [Some ways to thank your favorite open source projects and Hacktoberfest 2020](https://18103107.medium.com/some-ways-to-thank-your-favorite-open-source-projects-and-hacktoberfest-2020-20dde056d805)
 ____
 
+![](https://komarev.com/ghpvc/?username=shuvo18103107)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
