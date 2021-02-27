@@ -102,11 +102,13 @@ ____
 
 | | | 
 | :--: | :--: |
-|[![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107" alt="shuvo/></a>
+| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/></a>
 | | | 
- 
- <!--START_SECTION:waka-->
- <img src = "https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" height = 400px/>
+| <img src = "https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" height = 200px/> | <img height ="200px" src ="https://wakatime.com/share/@shuvo/665e719f-b8eb-42fa-8742-de5fa2b75c12.svg"/ ></a> |
+| | |
+
+<!--START_SECTION:waka-->
+
 
 
 
