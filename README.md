@@ -12,7 +12,7 @@
 <br>
 <br>
 <a href="https://twitter.com/MohammadAliShu4" >
-  <img align="left" alt="shuvo's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="shuvo's twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
 <a href="https://www.linkedin.com/in/mohammad-ali-shuvo-b53953195/" >
   <img align="left" alt="shuvo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
