@@ -92,22 +92,30 @@ ____
 <a href="#"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
 <a href="#"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h6 align="center"> Total Solved: 200 | Total Tried: 30 | Total Attempted: 100</h6>
 
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
 
 ---
-
 <h3 align="center">📊 Statistics 📊</h3>
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
 | | | 
 | :--: | :--: |
-| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact&theme=tokyonight" alt="shuvo18103107"/></a>
+| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact" alt="shuvo18103107"/></a>
 | | | 
-| <img src = "https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" height = 200px/> | <img height ="200px" src ="https://wakatime.com/share/@shuvo/665e719f-b8eb-42fa-8742-de5fa2b75c12.svg"/ ></a> |
+| <img height="200px" src="https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" /> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shuvo/e4e1de70-55ed-41b9-adf8-501878690542.png" /></a> |
 | | |
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+---
 
 
 
