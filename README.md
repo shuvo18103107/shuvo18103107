@@ -11,6 +11,7 @@
 
 <br>
 <br>
+<div align="center">
 <a href="https://twitter.com/MohammadAliShu4" >
   <img align="left" alt="shuvo's twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
@@ -32,7 +33,7 @@
 <a href="https://www.youtube.com/channel/UCRMzuwieBObcTrlPTWTLsNg/">
   <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
 </a>
-
+</div>
 
 <br/>
 <br/>
@@ -106,7 +107,7 @@ ____
 
 | | | 
 | :--: | :--: |
-| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact" alt="shuvo18103107"/></a>
+| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact &theme=radical" alt="shuvo18103107"/></a>
 | | | 
 | <img height="200px" src="https://wakatime.com/share/@shuvo/bbe4caac-1da1-4add-b348-21b80d0d362d.svg" /> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shuvo/e4e1de70-55ed-41b9-adf8-501878690542.png" /></a> |
 | | |
