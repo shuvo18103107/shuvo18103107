@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<div align="center">
+<p align="center">
 <a href="https://twitter.com/MohammadAliShu4" >
   <img align="left" alt="shuvo's twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />
 </a>
@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/channel/UCRMzuwieBObcTrlPTWTLsNg/">
   <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
 </a>
-</div>
+</p>
 
 <br/>
 <br/>
