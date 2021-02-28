@@ -50,7 +50,7 @@ const Shuvo = {
   code: ["Javascript", "Dart", "C++", "php","Python"],
   askMeAbout: ["app dev", "tech", "web dev", "photography"],
   Status: ["I’m currently learning about flutter and other android tech"],
-  tools: [Flutter, Redux, Node, Firebase, Styled-Components],
+  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components"],
   daily use: ["Flutter", "Dart", "Material Ui","Github","firebase"],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
   databases: ["mongo", "MySql", "sqlite"],
