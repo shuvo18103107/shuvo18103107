@@ -4,7 +4,15 @@
 
 <h3 align="center">📝 Who am I? 📝</h3>
 
-<h3 align="center"><a href="https://shuvo18103107.github.io/"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" alt="Shuvo"/></a></h3>
+<table >
+  <tr>
+    <td><h3  align="center"><img style="width:290px;" align="center" src="https://github.com/shuvo18103107/shuvo18103107/blob/master/github-metrics.svg" alt="shuvo18103107"/></h3></td>
+    <td><p width="10px"><br><br>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: There are two ways to write error-free programs; only the third one works.<br><br>
+      </p>
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=shuvo18103107&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="shuvo18103107"/> 
+    </td>
+  </tr>
+</table>
 
 <br>
 <h3 align="center">📫 Reach me 📫</h3>
