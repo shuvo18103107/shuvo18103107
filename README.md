@@ -13,6 +13,11 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center"><a href="https://github.com/shuvo18103107/shuvo18103107/blob/master/CV.pdf"><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="shuvo18103107"/></a><a href="https://shuvo18103107.github.io/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=blue" target="_blank" alt="shuvo18103107"/></a></h3>
+<br>
+
+
 <h3 align="center"><a href=""><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="shuvo18103107"/></a><a href="https://shuvo18103107.github.io/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="shuvo18103107"/></a></h3>
 <br>
 
