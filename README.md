@@ -120,7 +120,7 @@ ____
 | | |
 | [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="shuvo18103107"/></a>
 | | | 
-| <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/d6d2a788-627f-497f-881e-07293ebd94af.svg"><img  src="https://wakatime.com/share/@shuvo/579dd78d-3fa6-4a60-96bb-4e4b5595291a.svg" /></a> |
+| <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/2445f74e-89e9-4e13-9bfd-9fb55bf1dabb.svg"><img  src="https://wakatime.com/share/@shuvo/579dd78d-3fa6-4a60-96bb-4e4b5595291a.svg" /></a> |
 | | |
 
 
