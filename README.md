@@ -13,6 +13,8 @@
     </td>
   </tr>
 </table>
+<h3 align="center"><a href=""><img align="center" src="https://img.shields.io/badge/download%20my%20Resume-5B249A?&style=for-the-badge" target="_blank" alt="shuvo18103107"/></a><a href="https://shuvo18103107.github.io/"><img align="center" src="https://img.shields.io/badge/visit%20my%20graphic%20portfolio-5B249A?&style=for-the-badge&color=brown" target="_blank" alt="shuvo18103107"/></a></h3>
+<br>
 
 <br>
 <h3 align="center">📫 Reach me 📫</h3>
@@ -100,7 +102,7 @@ ____
 <h3 align="center">💡 Problem Solving Profiles ✨</h3>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
+<a href="https://www.hackerrank.com/shuvo105746"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
 <a href="#"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h6 align="center"> Total Solved: 200 | Total Tried: 30 | Total Attempted: 100</h6>
 
  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="320" />
@@ -108,17 +110,39 @@ ____
 
 
 
----
 <h3 align="center">📊 Statistics 📊</h3>
 
-
+<h3 align="center">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shuvo18103107&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shuvo18103107"/>
+</h3>
 
 | | | 
 | :--: | :--: |
-| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&layout=compact &theme=radical" alt="shuvo18103107"/></a>
-| | | 
-| <img height="200px" src="https://wakatime.com/share/@shuvo/eb5763fe-b6d5-4cdc-9b2b-9d05ff234790.svg" /> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shuvo/a6bee78e-18fb-4d70-b956-f97c94cbf303.png" /></a> |
 | | |
+| [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="shuvo18103107"/></a>
+| | | 
+| <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/d6d2a788-627f-497f-881e-07293ebd94af.svg"><img  src="https://wakatime.com/share/@shuvo/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg" /></a> |
+| | |
+
+<h3 align="center">
+
+<!--START_SECTION:waka-->
+```text
+Week: 06 June, 2021 - 13 June, 2021
+
+JavaScript   13 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   44.80 % 
+HTML         10 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.53 % 
+C#           3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Other        2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+```
+<!--END_SECTION:waka-->
+
+</h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=shuvo18103107&bg_color=00000&hide_border=true" width="100%"/>
+
+---
+
 
 <!--START_SECTION:waka-->
 
