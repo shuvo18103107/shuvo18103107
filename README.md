@@ -7,7 +7,7 @@
 <table >
   <tr>
     <td><h3  align="center"><img style="width:290px;" align="center" src="https://github.com/shuvo18103107/shuvo18103107/blob/master/github-metrics.svg" alt="shuvo18103107"/></h3></td>
-    <td><p width="10px"><br><br>💻 Currently working on web development technologies like JavaScript, React etc. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: There are two ways to write error-free programs; only the third one works.<br><br>
+    <td><p width="10px"><br><br>💻 Currently working on web development technologies like Laravel, vue and other backend staff. <br>📚 I’m currently learning about flutter and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: There are two ways to write error-free programs; only the third one works.<br><br>
       </p>
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=shuvo18103107&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="shuvo18103107"/> 
     </td>
