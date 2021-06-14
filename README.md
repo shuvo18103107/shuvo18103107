@@ -123,21 +123,7 @@ ____
 | <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/d6d2a788-627f-497f-881e-07293ebd94af.svg"><img  src="https://wakatime.com/share/@shuvo/72037c4c-180f-41cc-bd51-269637cf126a.svg" /></a> |
 | | |
 
-<h3 align="center">
 
-<!--START_SECTION:waka-->
-```text
-Week: 06 June, 2021 - 13 June, 2021
-
-JavaScript   13 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   44.80 % 
-HTML         10 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.53 % 
-C#           3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Other        2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-```
-<!--END_SECTION:waka-->
-
-</h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=shuvo18103107&bg_color=00000&hide_border=true" width="100%"/>
 
 ---
