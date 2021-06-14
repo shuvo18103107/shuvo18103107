@@ -59,13 +59,13 @@ const Shuvo = {
   pronouns: "He" | "him",
   code: ["Javascript", "Dart", "C++", "php","Python"],
   askMeAbout: ["app dev", "tech", "web dev", "photography"],
-  Status: ["I’m currently learning about flutter and other android tech"],
-  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components"],
-  daily use: ["Flutter", "Dart", "Material Ui","Github","firebase"],
+  Status: ["I’m currently learning about flutter and other web backend technology"],
+  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components","Laravel"],
+  daily use: ["Flutter", "Dart", "Material Ui","Github","firebase","JS"],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
   databases: ["mongo", "MySql", "sqlite"],
   misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
- currentFocus: ["Learn more technologies and want to be a Pro level Flutter Developer"],
+ currentFocus: ["Learn Laravel, vue and other web backend technology"],
  funFact: "There are two ways to write error-free programs; only the third one works",
  };
 ```
@@ -121,7 +121,7 @@ ____
 | | |
 | [![shuvo's github stats](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160)](https://github-readme-stats.vercel.app/api?username=shuvo18103107&count_private=true&show_icon=true&card_width=400&bg_color=80,bdc3c7,2c3e50&title_color=fff&text_color=fff&icon_color=58A6FF) | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo18103107&card_width=400&bg_color=00000000&title_color=FA8C00&text_color=949CA5&show_icons=true&hide_border=true&icon_color=CC5160" alt="shuvo18103107"/></a>
 | | | 
-| <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/d6d2a788-627f-497f-881e-07293ebd94af.svg"><img  src="https://wakatime.com/share/@shuvo/7446b87f-0bb1-4a7a-8732-4fc0aaa03068.svg" /></a> |
+| <img  src="https://wakatime.com/share/@shuvo/fdb0ba9b-95c9-4d76-bd7f-986ad70306c0.svg"/> | <a href="https://wakatime.com/share/@shuvo/d6d2a788-627f-497f-881e-07293ebd94af.svg"><img  src="https://wakatime.com/share/@shuvo/72037c4c-180f-41cc-bd51-269637cf126a.svg" /></a> |
 | | |
 
 <h3 align="center">
