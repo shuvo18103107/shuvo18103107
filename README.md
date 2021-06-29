@@ -40,7 +40,7 @@
   <img align="left" alt="shuvo's Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" />
 </a>
   <a href="https://codepen.io/sdjkbcdubcjknajk/pens/public">
-  <img align="left" alt="shuvo's Codepen" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/codepen-11-555477.png" />
+  <img align="left" alt="shuvo's Codepen" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCRMzuwieBObcTrlPTWTLsNg/">
   <img align="left" alt="shuvo's Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />
