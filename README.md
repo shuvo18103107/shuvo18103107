@@ -62,12 +62,12 @@ const Shuvo = {
   code: ["Javascript", "Dart", "C++", "php","Python"],
   askMeAbout: ["app dev", "tech", "web dev", "photography"],
   Status: ["I’m currently learning about flutter and other web backend technology"],
-  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components","Laravel"],
-  daily use: ["Flutter", "Dart", "Material Ui","Github","firebase","JS"],
+  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components","Laravel","React.JS","Node"],
+  daily use: ["Javascript", "Github", "MongoDB","Node","PHP"],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
   databases: ["mongo", "MySql", "sqlite"],
   misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
- currentFocus: ["Learn Laravel, vue and other web backend technology"],
+ currentFocus: ["Learn React, Node and other web backend technology"],
  funFact: "There are two ways to write error-free programs; only the third one works",
  };
 ```
