@@ -61,7 +61,7 @@ const Shuvo = {
   pronouns: "He" | "him",
   code: ["Javascript", "Dart", "C++", "php","Python"],
   askMeAbout: ["app dev", "tech", "web dev", "photography"],
-  Status: ["I’m currently learning about flutter and other web backend technology"],
+  Status: ["I’m currently want to develop myself by learning web backend technology"],
   tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components","Laravel","React.JS","Node"],
   daily use: ["Javascript", "Github", "MongoDB","Node","PHP"],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
