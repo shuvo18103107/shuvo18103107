@@ -15,7 +15,8 @@
       <h3>🛠️ Tech Stack</h3>
       <p align="left">My daily tech stack includes:</p>
       <ul>
-        <li>Laravel 💻</li>
+        <li>Laravel, PHP 💻</li>
+        <li>PostgreSQL, MySQL</li>
         <li>Vue 3 </li>
         <li>Node.js, Express, MongoDB, Mongoose 🛢️</li>
         <li>Docker 🐳</li>
@@ -31,6 +32,7 @@
         <li>Cloud Technologies ☁️</li>
         <li>Microservices Architecture 🌐</li>
         <li>Scalability and Performance Optimization 🚀</li>
+        <li>Try to enhancing my skill on my current stack</li>
       </ul>
     </td>
   </tr>
