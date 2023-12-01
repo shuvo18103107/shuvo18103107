@@ -9,32 +9,28 @@
   <img width="350px" src="https://github.com/shuvo18103107/shuvo18103107/blob/master/github-metrics.svg" alt="shuvo18103107"/>
 </p>
 
-<p align="center">
-  👋 Hi, I'm Shuvo, a seasoned Senior Software Engineer with a focus on backend development and a passion for crafting robust and scalable solutions. 🚀
-</p>
-
 <table align="center">
   <tr>
     <td width="50%">
       <h3>🛠️ Tech Stack</h3>
-      <p align="left">My expertise lies in backend technologies:</p>
+      <p align="left">My daily tech stack includes:</p>
       <ul>
-        <li>Laravel</li>
-        <li>Node.js</li>
-        <li>Database Design</li>
-        <li>Software Architecture</li>
-        <li>Design Principles</li>
+        <li>Laravel 💻</li>
+        <li>Vue 3 🖼️</li>
+        <li>Node.js, Express, MongoDB, Mongoose 🛢️</li>
+        <li>Docker 🐳</li>
       </ul>
     </td>
     <td>
       <h3>📚 Currently Learning</h3>
       <p align="left">Currently enhancing my skills in:</p>
       <ul>
-        <li>Clean Code Principles</li>
-        <li>AWS (Amazon Web Services)</li>
-        <li>Cloud Technologies</li>
-        <li>Microservices Architecture</li>
-        <li>Scalability and Performance Optimization</li>
+        <li>Clean Code Principles 🧹</li>
+        <li>Docker and Kubernetes 🚢</li>
+        <li>AWS (Amazon Web Services) ☁️</li>
+        <li>Cloud Technologies ☁️</li>
+        <li>Microservices Architecture 🌐</li>
+        <li>Scalability and Performance Optimization 🚀</li>
       </ul>
     </td>
   </tr>
@@ -47,7 +43,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shuvo18103107&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="shuvo18103107"/>
 </p>
-
 
 
 
