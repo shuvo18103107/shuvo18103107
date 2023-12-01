@@ -4,15 +4,50 @@
 
 <h3 align="center">📝 Who am I? 📝</h3>
 
-<table >
+
+<p align="center">
+  <img width="350px" src="https://github.com/shuvo18103107/shuvo18103107/blob/master/github-metrics.svg" alt="shuvo18103107"/>
+</p>
+
+<p align="center">
+  👋 Hi, I'm Shuvo, a seasoned Senior Software Engineer with a focus on backend development and a passion for crafting robust and scalable solutions. 🚀
+</p>
+
+<table align="center">
   <tr>
-    <td><h3  align="center"><img style="width:290px;" align="center" src="https://github.com/shuvo18103107/shuvo18103107/blob/master/github-metrics.svg" alt="shuvo18103107"/></h3></td>
-    <td><p width="10px"><br><br>💻 Currently working on web development technologies like Laravel, React, NodeJS and other backend staff. <br>📚 I’m currently learning about Laravel,PHP, VueJS and other android tech. <br>💪🏼 Future Goals: Learn more technologies.<br>⚡ Fun fact: There are two ways to write error-free programs; only the third one works.<br><br>
-      </p>
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=shuvo18103107&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="shuvo18103107"/> 
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p align="left">My expertise lies in backend technologies:</p>
+      <ul>
+        <li>Laravel</li>
+        <li>Node.js</li>
+        <li>Database Design</li>
+        <li>Software Architecture</li>
+        <li>Design Principles</li>
+      </ul>
+    </td>
+    <td>
+      <h3>📚 Currently Learning</h3>
+      <p align="left">Currently enhancing my skills in:</p>
+      <ul>
+        <li>Clean Code Principles</li>
+        <li>AWS (Amazon Web Services)</li>
+        <li>Cloud Technologies</li>
+        <li>Microservices Architecture</li>
+        <li>Scalability and Performance Optimization</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  💡 Fun Fact: There are two ways to write error-free programs; only the third one works. 😄
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shuvo18103107&row=1&no-frame=true&theme=onedark&no-bg=true&column=5" alt="shuvo18103107"/>
+</p>
+
 
 
 
