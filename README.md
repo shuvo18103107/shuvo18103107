@@ -16,7 +16,7 @@
       <p align="left">My daily tech stack includes:</p>
       <ul>
         <li>Laravel 💻</li>
-        <li>Vue 3 🖼️</li>
+        <li>Vue 3 </li>
         <li>Node.js, Express, MongoDB, Mongoose 🛢️</li>
         <li>Docker 🐳</li>
       </ul>
@@ -90,23 +90,17 @@
 const Shuvo = {
   pronouns: "He" | "him",
   code: ["Javascript", "Dart", "C++", "php","Python"],
-  askMeAbout: ["app dev", "tech", "web dev", "photography"],
+  askMeAbout: ["php", "laravel", "tech", "web dev", "photography"],
   Status: ["I’m currently want to develop myself by learning web backend technology"],
-  tools: ["Flutter", "Redux", "Node", "Firebase", "Styled-Components","Laravel","React.JS","Node"],
-  daily use: ["Javascript", "Github", "MongoDB","Node","PHP"],
+  tools: ["Laravel", "Node", "Firebase", "Styled-Components","Vue3","React.JS","Github", "Docker"],
+  daily use: ["php", "laravel", "docker" "github"],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-  databases: ["mongo", "MySql", "sqlite"],
+  databases: ["PostgreSQL", "MySql", "sqlite", "MongoDB"],
   misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
- currentFocus: ["Learn React, Node and other web backend technology"],
+ currentFocus: ["Learn cloud technology and other web backend technology"],
  funFact: "There are two ways to write error-free programs; only the third one works",
  };
 ```
-____
- <h3 align="center">:mortar_board: Graduating :mortar_board:</h3>
-<p align="center">
-Studying in bachelor degree, in IUBAT (International University of Business Agriculture and Technology) with the intend to pursue a Computer Science degree after!</p>
-
-____
 
 
  <h3 align="center">⚙️ Languages and Tools 🔨</h3>
