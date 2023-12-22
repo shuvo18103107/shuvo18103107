@@ -1,5 +1,11 @@
-# Hola, I'm Mohammad Ali Shuvo!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Mohammad Ali Shuvo!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h3 align="center">A Full-stack Developer from 🇧🇩 </h3>
+<br/>
+<div align="center">
 
+![Shuvo](gitartwork.svg)
+
+</div>
 
 
 <h3 align="center">📝 Who am I? 📝</h3>
